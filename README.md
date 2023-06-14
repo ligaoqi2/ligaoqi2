@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Li Gaoqi
-- 👀 I'm interested in CV and AI
+- :camera_flash: I'm interested in CV and AI
 - :see_no_evil: I'm studying for a master's degree at Nanjing University of Posts and Telecommunications
 - 📫 ligaoqi02@gmail.com for gmail
 <!---
