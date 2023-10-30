@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Li Gaoqi
-- :camera_flash: I'm interested in Linux and Mobile OS.
+- :camera_flash: I'm interested in Linux, Mobile OS, CV, and AI(Human Pose Estimation and NLP).
 - :see_no_evil: I'm studying for a master's degree at Nanjing University of Posts and Telecommunications...
 - 📫 ligaoqi02@gmail.com for Gmail.
 <!---
