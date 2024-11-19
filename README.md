@@ -51,11 +51,79 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-```txt
-No activity tracked
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 347.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 138 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 242 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+🌆 Daytime                44 commits          ███████████░░░░░░░░░░░░░░   43.14 % 
+🌃 Evening                45 commits          ███████████░░░░░░░░░░░░░░   44.12 % 
+🌙 Night                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   19 commits          █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Tuesday                  21 commits          █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Wednesday                23 commits          ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Thursday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Sunday                   24 commits          ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   16 repos            ████████████████░░░░░░░░░   64.00 % 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Cuda                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Starlark                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ligaoqi2/ligaoqi2/main/assets/bar_graph.png)
+
+
+ Last Updated on 19/11/2024 09:35:19 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ligaoqi2&show_icons=true&theme=transparent)
