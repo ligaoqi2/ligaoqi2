@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm ligaoqi</h1>
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ligaoqi2&theme=onedark&column=-1" />
+</p>
+
 ## :grinning: Quick Facts
 
 - :camera_flash: I'm interested in Linux, Mobile OS, CV, and AI(Human Pose Estimation and NLP).
