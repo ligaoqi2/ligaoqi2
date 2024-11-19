@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ligaoqi</h1>
+<h1 align="center">Hi, I'm ligaoqi 👋</h1>
 
 <p align="center">
   <img alig src="https://socialify.git.ci/ligaoqi2/ligaoqi2/image?font=Rokkitt&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark" width="700" height="300" />
