@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm ligaoqi 👋</h1>
+<h1 align="center">Hi<img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />, I'm ligaoqi</h1>
+
+<br />
 
 <p align="center">
   <img alig src="https://socialify.git.ci/ligaoqi2/ligaoqi2/image?font=Rokkitt&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark" width="700" height="300" />
