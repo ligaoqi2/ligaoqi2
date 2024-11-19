@@ -53,9 +53,6 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-readme-->
-<!--END_SECTION:waka-readme-->
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ligaoqi2&show_icons=true&theme=transparent)
 
 ## :hammer: Tools I Use
