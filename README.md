@@ -120,17 +120,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   16 repos            ████████████████░░░░░░░░░   64.00 % 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Cuda                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Starlark                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   16 repos            ███████████████░░░░░░░░░░   61.54 % 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Cuda                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Starlark                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 20/11/2024 18:44:37 UTC
+ Last Updated on 21/11/2024 18:44:24 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ligaoqi2&show_icons=true&theme=transparent)
