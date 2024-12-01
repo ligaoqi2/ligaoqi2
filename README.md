@@ -62,8 +62,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-156-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-225.1%20thousand%20lines%20of%20code-blue)
@@ -72,53 +70,12 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 347.7 kB Used in GitHub's Storage 
  > 
-> 🏆 146 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 246 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-🌆 Daytime                49 commits          ███████████░░░░░░░░░░░░░░   44.95 % 
-🌃 Evening                47 commits          ███████████░░░░░░░░░░░░░░   43.12 % 
-🌙 Night                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Tuesday                  28 commits          ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Wednesday                23 commits          █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-Thursday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Sunday                   24 commits          ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -132,7 +89,7 @@ Starlark                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2024 18:42:18 UTC
+ Last Updated on 01/12/2024 18:42:54 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ligaoqi2&show_icons=true&theme=transparent)
