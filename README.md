@@ -26,9 +26,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - <a href='https://github.com/ligaoqi2/Pose2Seg-single-person-video-demo' target='_blank'>Pose2Seg video demo</a> - 2024-05-06
   <br/> Demo supports any single person video.
 
-- <a href='https://github.com/ligaoqi2/Pose2Seg-single-person-video-demo' target='_blank'>Pose2Seg video demo</a> - 2024-05-06
-  <br/> Demo supports any single person video.
-
 - <a href='https://github.com/ligaoqi2/res-loglikelihood-regression-with-COCO-video-demo' target='_blank'>Res-loglikelihood-regression with demo</a> - 2024-05-06
   <br/> Demo supports any person video.
 
