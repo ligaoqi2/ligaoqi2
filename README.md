@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-225.1%20thousand%20lines%20of%20code-blue)
 
@@ -69,11 +69,9 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 347.6 kB Used in GitHub's Storage 
  > 
-> 🏆 147 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 247 Public Repositories 
+> 📜 248 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
@@ -129,7 +127,7 @@ Starlark                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2024 18:45:13 UTC
+ Last Updated on 14/12/2024 18:42:54 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ligaoqi2&show_icons=true&theme=transparent)
