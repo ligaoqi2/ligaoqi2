@@ -20,6 +20,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <a href="#"><img align="right" src="https://github.com/ligaoqi2/ligaoqi2/raw/main/readme.gif" width="200 " height="200" /></a>
 
+- <a href='https://github.com/ligaoqi2/Shopping-H5-Vue2' target='_blank'>Shopping-H5-Vue2</a> - 2024-12-31
+  <br/> A Shopping Store Demo based on Vue2.
+
 - <a href='https://github.com/ligaoqi2/Simple-Chat-Auto-Reply-App-by-Java' target='_blank'>Simple Chat Reply Android App</a> - 2024-09-12
   <br/> Virtual role auto reply after the set time.
 
