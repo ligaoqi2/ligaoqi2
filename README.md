@@ -62,9 +62,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -72,53 +70,12 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 427.3 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 259 Public Repositories 
+> 📜 260 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-🌆 Daytime                56 commits          ███████████░░░░░░░░░░░░░░   45.90 % 
-🌃 Evening                47 commits          ██████████░░░░░░░░░░░░░░░   38.52 % 
-🌙 Night                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Tuesday                  39 commits          ████████░░░░░░░░░░░░░░░░░   31.97 % 
-Wednesday                23 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Thursday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Sunday                   24 commits          █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -132,7 +89,7 @@ Starlark                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2025 18:43:05 UTC
+ Last Updated on 09/01/2025 18:43:51 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ligaoqi2&show_icons=true&theme=transparent)
