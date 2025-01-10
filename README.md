@@ -62,34 +62,77 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 427.3 kB Used in GitHub's Storage 
+> 📦 427.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 260 Public Repositories 
+> 📜 261 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+🌆 Daytime                57 commits          ████████████░░░░░░░░░░░░░   46.34 % 
+🌃 Evening                47 commits          ██████████░░░░░░░░░░░░░░░   38.21 % 
+🌙 Night                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Tuesday                  39 commits          ████████░░░░░░░░░░░░░░░░░   31.71 % 
+Wednesday                23 commits          █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Thursday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Friday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Sunday                   24 commits          █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Starlark                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Starlark                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 09/01/2025 18:43:51 UTC
+ Last Updated on 10/01/2025 18:43:09 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ligaoqi2&show_icons=true&theme=transparent)
