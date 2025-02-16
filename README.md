@@ -62,6 +62,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
@@ -76,20 +78,59 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+🌆 Daytime                57 commits          ████████████░░░░░░░░░░░░░   46.34 % 
+🌃 Evening                47 commits          ██████████░░░░░░░░░░░░░░░   38.21 % 
+🌙 Night                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Tuesday                  39 commits          ████████░░░░░░░░░░░░░░░░░   31.71 % 
+Wednesday                23 commits          █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Thursday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Friday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Sunday                   24 commits          █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Starlark                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Starlark                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 15/02/2025 18:39:07 UTC
+ Last Updated on 16/02/2025 18:39:42 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ligaoqi2&show_icons=true&theme=transparent)
