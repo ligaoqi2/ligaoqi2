@@ -20,7 +20,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <a href="#"><img align="right" src="https://github.com/ligaoqi2/ligaoqi2/raw/main/readme.gif" width="200 " height="200" /></a>
 
-- <a href='https://github.com/ligaoqi2/agent-manus-demo-windows' target='_blank'>agent-manus-demo-windows</a> - 2025-03-17
+- <a href='https://github.com/ligaoqi2/agent-manus-demo-windows' target='_blank'>Agent-manus-demo-windows</a> - 2025-03-17
   <br/> A Multi-User Intelligent Agent Demonstration System Based on LLM for Windows.
 
 - <a href='https://github.com/ligaoqi2/Shopping-H5-Vue2' target='_blank'>Shopping-H5-Vue2</a> - 2024-12-31
