@@ -20,7 +20,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <a href="#"><img align="right" src="https://github.com/ligaoqi2/ligaoqi2/raw/main/readme.gif" width="200 " height="200" /></a>
 
-- <a href='https://github.com/ligaoqi2/simple-splat-video-demo.git' target='_blank'>simple-splat-video-demo</a> - 2025-06-25
+- <a href='https://github.com/ligaoqi2/simple-splat-video-demo.git' target='_blank'>Simple-3dgs-video-demo</a> - 2025-06-25
   <br/> Simplely run 3dgs with uv.
 
 - <a href='https://github.com/ligaoqi2/agent-manus-demo-windows' target='_blank'>Agent-manus-demo-windows</a> - 2025-03-17
