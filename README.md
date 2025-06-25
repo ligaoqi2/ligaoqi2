@@ -20,6 +20,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <a href="#"><img align="right" src="https://github.com/ligaoqi2/ligaoqi2/raw/main/readme.gif" width="200 " height="200" /></a>
 
+- <a href='https://github.com/ligaoqi2/Difix3d-3dgs-demo.git' target='_blank'>Difix3d-3dgs-demo</a> - 2025-06-25
+  <br/> Use Difix3d+ generate more Realistic 3dgs demo.
+
 - <a href='https://github.com/ligaoqi2/Simple-3dgs-video-demo.git' target='_blank'>Simple-3dgs-video-demo</a> - 2025-06-25
   <br/> Simplely run 3dgs with uv.
 
