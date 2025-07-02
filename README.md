@@ -67,6 +67,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
@@ -81,6 +83,45 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+🌆 Daytime                70 commits          ████████████░░░░░░░░░░░░░   47.95 % 
+🌃 Evening                51 commits          █████████░░░░░░░░░░░░░░░░   34.93 % 
+🌙 Night                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Tuesday                  39 commits          ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+Wednesday                38 commits          ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+Thursday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Sunday                   24 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -94,7 +135,7 @@ Starlark                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 18:49:48 UTC
+ Last Updated on 02/07/2025 18:50:42 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ligaoqi2&show_icons=true&theme=transparent)
