@@ -1,8 +1,6 @@
 <h1 align="center">Hi<img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />, I'm ligaoqi</h1>
 
-<br />
-
 ## :grinning: Quick Facts
 
 - :camera_flash: I'm interested in Linux, Mobile OS, CV, and AI(Human Pose Estimation and NLP).
