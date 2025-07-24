@@ -3,10 +3,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br />
 
-<p align="center">
-  <img alig src="https://socialify.git.ci/ligaoqi2/ligaoqi2/image?font=Rokkitt&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark" width="700" height="300" />
-</p>
-
 ## :grinning: Quick Facts
 
 - :camera_flash: I'm interested in Linux, Mobile OS, CV, and AI(Human Pose Estimation and NLP).
