@@ -61,52 +61,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - <a href='https://github.com/ligaoqi2/STGCN_without_Openpose_Installation' target='_blank'>STGCN without openpose c++ installation</a> - 2022-09-03
   <br/> Run STGCN without openpose installation on any video.（STGCN不用配置复杂Openpose环境直接输入视频输出动作识别视频的Demo版本）
   
-<!---
-ligaoqi2/ligaoqi2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
-
-```text
-🌞 Morning                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-🌆 Daytime                75 commits          ████████████░░░░░░░░░░░░░   47.47 % 
-🌃 Evening                53 commits          ████████░░░░░░░░░░░░░░░░░   33.54 % 
-🌙 Night                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   29 commits          █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Tuesday                  39 commits          ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-Wednesday                38 commits          ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-Thursday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Sunday                   24 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   20 repos            █████████████░░░░░░░░░░░░   52.63 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-```
-
-
-
-
- Last Updated on 28/08/2025 18:47:15 UTC
-<!--END_SECTION:waka-->
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ligaoqi2&show_icons=true&theme=transparent)
 
 ## :hammer: Tools I Use
