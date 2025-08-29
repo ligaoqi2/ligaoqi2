@@ -10,6 +10,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <a href="#"><img align="right" src="https://github.com/ligaoqi2/ligaoqi2/raw/main/readme.gif" width="200 " height="200" /></a>
 
+- <a href='https://github.com/ligaoqi2/OPEC-Net_Visualize.git' target='_blank'>OPEC-Net Visualize</a> - 2025-08-29
+  <br/> Generate visualized human pose estimation results under 2D occlusion based on the OPEC-Net（基于 OPEC-NET 生成2D遮挡下的可视化人体姿态估计结果）
+
 - <a href='https://github.com/ligaoqi2/Cache-and-play-videos-simultaneously.git' target='_blank'>Cache-and-play-videos-simultaneously</a> - 2025-07-14
   <br/> Cache and play videos simultaneously.（边播放边缓存视频）
 
