@@ -73,18 +73,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 550.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 331 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
 ```text
 🌞 Morning                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 🌆 Daytime                75 commits          ████████████░░░░░░░░░░░░░   47.47 % 
@@ -101,25 +89,6 @@ Thursday                 19 commits          ███░░░░░░░░�
 Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 Sunday                   24 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
